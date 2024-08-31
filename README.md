@@ -6,7 +6,7 @@ Cold email generator for services company using groq, langchain and streamlit. I
 - Nike needs a Principal Software Engineer and is spending time and resources in the hiring process, on boarding, training etc
 - Tricon Infotech is Software Development company can provide a dedicated software development engineer to Nike. So, the software engineer (Abhinav) from Tricon Infotech is going to reach out to Nike via a cold email.
 
-![page.png](image.png)
+![page.png](imgs/image.png)
 
 ## Architecture Diagram
 ![img.png](imgs/architecture.png)
